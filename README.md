@@ -1,3 +1,29 @@
+![image](https://github.com/Bharat295/workoutwizard/assets/85282925/0807577c-9d76-4eed-bb25-c4329c88597a)
+
+![image](https://github.com/Bharat295/workoutwizard/assets/85282925/e0b48621-56fd-40a6-892c-6086a2d1b6e9)
+
+![image](https://github.com/Bharat295/workoutwizard/assets/85282925/50e69593-6899-4256-b367-5e80ec0c2a41)
+
+![image](https://github.com/Bharat295/workoutwizard/assets/85282925/63d567c2-6063-4a5d-94f8-d00f2267ffb4)
+
+![image](https://github.com/Bharat295/workoutwizard/assets/85282925/07ce28c6-f490-400a-ae0f-ed4aa746d3cd)
+
+![image](https://github.com/Bharat295/workoutwizard/assets/85282925/d805e26e-d23c-4ba5-bdd6-d3ba862963d6)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
